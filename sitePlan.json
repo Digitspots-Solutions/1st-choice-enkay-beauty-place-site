@@ -1,0 +1,42 @@
+{
+  "businessName": "1st Choice Enkay Beauty Place",
+  "industry": "Fashion and Creative Design",
+  "tone": "warm, stylish, and inviting",
+  "tagline": "Where Style Meets Excellence",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to 1st Choice Enkay Beauty Place - Your Premier Destination for Fashion and Creative Design in Bwari. We bring your style vision to life with expertly crafted designs, quality fabrics, and personalized service. From elegant native wear to contemporary fashion pieces, we create looks that make you stand out.",
+      "imagePrompt": "Photorealistic image of a vibrant Nigerian fashion boutique interior with colorful African print fabrics draped elegantly, modern clothing racks displaying beautiful traditional and contemporary outfits, warm lighting, professional mannequins wearing stunning native attire, rich textures of ankara and lace fabrics, welcoming atmosphere, high-end boutique aesthetic in Abuja Nigeria",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "1st Choice Enkay Beauty Place is your trusted partner for all your fashion and creative design needs in Bwari, Abuja. We specialize in creating stunning custom outfits that celebrate Nigerian culture while embracing modern trends. Our experienced designers understand the art of bringing your unique style to life, whether you need traditional native wear for special occasions, corporate attire, or contemporary fashion pieces. Located at 138 Byazhin Road, Byazhin Kubwa, we serve clients across Bwari and beyond with dedication to quality, creativity, and customer satisfaction. Every stitch, every fabric choice, every design detail is carefully considered to ensure you look and feel your absolute best.",
+      "imagePrompt": "Photorealistic image of skilled Nigerian fashion designers at work in a creative studio, measuring tape around neck, working on beautiful ankara fabric on a dress form, colorful thread spools and sewing equipment visible, natural lighting through windows, professional workspace atmosphere, authentic Abuja fashion design environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Fashion Design & Tailoring - We create bespoke outfits tailored perfectly to your measurements and style preferences. From elegant aso-ebi to everyday wear, every piece is crafted with precision.\n\nTraditional Native Wear - Celebrate your heritage with our stunning traditional Nigerian attire. We specialize in agbada, kaftan, iro and buba, and other cultural designs that honor Nigerian fashion traditions.\n\nContemporary Fashion - Stay on-trend with our modern fashion pieces that blend international styles with African flair. Perfect for the stylish Nigerian professional.\n\nBridal & Special Occasion Designs - Make your special day unforgettable with our exquisite bridal wear and occasion outfits. We handle everything from concept to final fitting.\n\nFabric Sourcing & Consultation - Not sure which fabric or style suits you best? Our expert team provides personalized consultation to help you make the perfect choice for any occasion.\n\nAlterations & Repairs - Give your favorite outfits new life with our professional alteration and repair services.",
+      "imagePrompt": "Photorealistic collage-style image showing various Nigerian fashion services: traditional native wear with intricate embroidery, modern ankara dresses on display, bridal gown being fitted, designer consulting with client over fabric swatches, colorful Nigerian textiles in background, professional fashion studio setting in Abuja",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Ready to elevate your style? Visit 1st Choice Enkay Beauty Place today and let's create something beautiful together. We're conveniently located in Bwari and ready to serve you.\n\n📍 138 Byazhin Road, Byazhin Kubwa, Bwari, Abuja\n📞 070 3240 5521\n💬 Chat with us on WhatsApp for quick inquiries and appointments\n\nOur doors are open to bring your fashion dreams to life. Whether you need a complete wardrobe refresh or that perfect outfit for an upcoming event, 1st Choice Enkay Beauty Place is your partner in style. Walk-ins welcome, but we recommend booking appointments for custom design consultations to ensure we give you our full attention.",
+      "imagePrompt": "Photorealistic image of welcoming Nigerian boutique storefront with clear signage, beautiful window display featuring colorful African fashion pieces, inviting entrance with customers visible inside, well-lit exterior, Abuja neighborhood setting, professional business appearance, vibrant and accessible aesthetic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "070 3240 5521",
+    "email": "",
+    "address": "138 Byazhin Road, Byazhin Kubwa, Bwari, Abuja",
+    "whatsapp": "https://wa.me/2347032405521"
+  }
+}
