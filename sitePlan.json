@@ -1,42 +1,49 @@
 {
-  "businessName": "1st Choice Enkay Beauty Place",
-  "industry": "Fashion and Creative Design",
-  "tone": "warm, stylish, and inviting",
-  "tagline": "Where Style Meets Excellence",
+  "businessName": "Poultry Farming Foods Technology Limited",
+  "industry": "FoodTech & AgriTech",
+  "tone": "professional, innovative, trustworthy",
+  "tagline": "Revolutionizing Poultry Production Through Technology",
   "sections": [
     {
       "id": "hero",
-      "name": "Hero",
-      "copy": "Welcome to 1st Choice Enkay Beauty Place - Your Premier Destination for Fashion and Creative Design in Bwari. We bring your style vision to life with expertly crafted designs, quality fabrics, and personalized service. From elegant native wear to contemporary fashion pieces, we create looks that make you stand out.",
-      "imagePrompt": "Photorealistic image of a vibrant Nigerian fashion boutique interior with colorful African print fabrics draped elegantly, modern clothing racks displaying beautiful traditional and contemporary outfits, warm lighting, professional mannequins wearing stunning native attire, rich textures of ankara and lace fabrics, welcoming atmosphere, high-end boutique aesthetic in Abuja Nigeria",
+      "name": "Hero Section",
+      "copy": "Welcome to Poultry Farming Foods Technology Limited. We are transforming Nigeria's poultry industry through innovative food technology solutions. From farm to fork, we deliver quality, sustainability, and excellence in every aspect of poultry production and distribution.",
+      "imagePrompt": "Wide aerial view of a modern Nigerian poultry farm with clean white chicken houses, solar panels on roofs, lush green surroundings, workers in professional uniforms, advanced feeding systems visible, bright African sunlight, professional agricultural technology setting, photorealistic, high quality",
       "layout": "centered"
     },
     {
       "id": "about",
       "name": "About Us",
-      "copy": "1st Choice Enkay Beauty Place is your trusted partner for all your fashion and creative design needs in Bwari, Abuja. We specialize in creating stunning custom outfits that celebrate Nigerian culture while embracing modern trends. Our experienced designers understand the art of bringing your unique style to life, whether you need traditional native wear for special occasions, corporate attire, or contemporary fashion pieces. Located at 138 Byazhin Road, Byazhin Kubwa, we serve clients across Bwari and beyond with dedication to quality, creativity, and customer satisfaction. Every stitch, every fabric choice, every design detail is carefully considered to ensure you look and feel your absolute best.",
-      "imagePrompt": "Photorealistic image of skilled Nigerian fashion designers at work in a creative studio, measuring tape around neck, working on beautiful ankara fabric on a dress form, colorful thread spools and sewing equipment visible, natural lighting through windows, professional workspace atmosphere, authentic Abuja fashion design environment",
+      "copy": "Poultry Farming Foods Technology Limited is a leading Nigerian FoodTech company dedicated to modernizing poultry farming through cutting-edge agricultural technology. Based in Bwari, we combine traditional farming expertise with innovative solutions to meet the growing demand for quality poultry products across Nigeria. Our commitment to food safety, sustainable farming practices, and technological innovation sets us apart in the industry. We work directly with farmers, distributors, and retailers to ensure the highest standards from production to consumption.",
+      "imagePrompt": "Professional Nigerian business team in a modern poultry facility, diverse group examining quality poultry products, state-of-the-art equipment in background, natural lighting through large windows, confident and approachable atmosphere, Lagos business district aesthetic meets agricultural innovation, photorealistic",
       "layout": "split"
     },
     {
       "id": "services",
       "name": "Our Services",
-      "copy": "Custom Fashion Design & Tailoring - We create bespoke outfits tailored perfectly to your measurements and style preferences. From elegant aso-ebi to everyday wear, every piece is crafted with precision.\n\nTraditional Native Wear - Celebrate your heritage with our stunning traditional Nigerian attire. We specialize in agbada, kaftan, iro and buba, and other cultural designs that honor Nigerian fashion traditions.\n\nContemporary Fashion - Stay on-trend with our modern fashion pieces that blend international styles with African flair. Perfect for the stylish Nigerian professional.\n\nBridal & Special Occasion Designs - Make your special day unforgettable with our exquisite bridal wear and occasion outfits. We handle everything from concept to final fitting.\n\nFabric Sourcing & Consultation - Not sure which fabric or style suits you best? Our expert team provides personalized consultation to help you make the perfect choice for any occasion.\n\nAlterations & Repairs - Give your favorite outfits new life with our professional alteration and repair services.",
-      "imagePrompt": "Photorealistic collage-style image showing various Nigerian fashion services: traditional native wear with intricate embroidery, modern ankara dresses on display, bridal gown being fitted, designer consulting with client over fabric swatches, colorful Nigerian textiles in background, professional fashion studio setting in Abuja",
+      "copy": "**Poultry Production & Management**\nComprehensive poultry farming solutions utilizing advanced breeding techniques, automated feeding systems, and climate-controlled housing for optimal bird health and productivity.\n\n**Quality Poultry Products Supply**\nFresh, farm-to-table poultry products including live birds, dressed chicken, eggs, and processed poultry items delivered across Nigeria with full traceability and quality assurance.\n\n**AgriTech Consulting**\nExpert guidance for farmers looking to modernize their operations. We provide technology integration, farm management systems, and sustainable farming practices consultation.\n\n**Feed Production & Nutrition**\nScientifically formulated poultry feeds designed for different growth stages, ensuring optimal nutrition, faster growth rates, and better meat quality.\n\n**Cold Chain & Distribution**\nReliable cold storage and distribution network ensuring your poultry products reach markets in perfect condition, maintaining freshness from our farms to your customers.",
+      "imagePrompt": "Split screen composition showing various aspects of modern poultry operations: automated feeding systems, quality control laboratory, refrigerated delivery trucks with company branding, farmers using tablets for farm management, healthy chickens in clean facilities, all set in Nigerian context, professional photography, vibrant and clean",
       "layout": "grid"
     },
     {
+      "id": "why-choose-us",
+      "name": "Why Choose Us",
+      "copy": "**Technology-Driven Excellence**\nWe leverage the latest agricultural technology to optimize every aspect of poultry production, from automated monitoring systems to data-driven decision making.\n\n**Quality Assurance**\nEvery product undergoes rigorous quality control. We maintain the highest standards of hygiene, safety, and freshness in all our operations.\n\n**Sustainable Practices**\nOur commitment to environmental sustainability means we employ eco-friendly farming methods, waste management systems, and energy-efficient operations.\n\n**Local Expertise, Global Standards**\nAs a proudly Nigerian company, we understand local market needs while maintaining international quality standards.\n\n**Reliable Supply Chain**\nWith our established distribution network across Nigeria, we ensure consistent, timely delivery of poultry products to meet your business needs.",
+      "imagePrompt": "Modern Nigerian poultry farm showcasing technology integration: IoT sensors, solar panels, clean biosecure facilities, happy healthy birds, professional Nigerian farm workers using smartphones and tablets, lush green landscape, golden hour lighting, inspiring and professional, photorealistic detail",
+      "layout": "cards"
+    },
+    {
       "id": "contact",
-      "name": "Visit Us Today",
-      "copy": "Ready to elevate your style? Visit 1st Choice Enkay Beauty Place today and let's create something beautiful together. We're conveniently located in Bwari and ready to serve you.\n\n📍 138 Byazhin Road, Byazhin Kubwa, Bwari, Abuja\n📞 070 3240 5521\n💬 Chat with us on WhatsApp for quick inquiries and appointments\n\nOur doors are open to bring your fashion dreams to life. Whether you need a complete wardrobe refresh or that perfect outfit for an upcoming event, 1st Choice Enkay Beauty Place is your partner in style. Walk-ins welcome, but we recommend booking appointments for custom design consultations to ensure we give you our full attention.",
-      "imagePrompt": "Photorealistic image of welcoming Nigerian boutique storefront with clear signage, beautiful window display featuring colorful African fashion pieces, inviting entrance with customers visible inside, well-lit exterior, Abuja neighborhood setting, professional business appearance, vibrant and accessible aesthetic",
+      "name": "Get In Touch",
+      "copy": "Ready to partner with Nigeria's leading poultry FoodTech company? Whether you're a retailer looking for reliable poultry supply, a farmer seeking consultation, or an investor interested in agricultural innovation, we're here to help.\n\nVisit our office at 138 Byazhin Road, Byazhin Kubwa, Second Choice, Bwari, or reach out through any of our contact channels. Our team is ready to discuss how Poultry Farming Foods Technology Limited can support your poultry business needs.\n\nFor immediate inquiries, call us or send a WhatsApp message. We respond to all enquiries within 24 hours.",
+      "imagePrompt": "Welcoming modern office reception area with Nigerian agricultural theme, professional receptionist, comfortable seating area, digital displays showing farm operations, natural wood elements, plants, large windows with natural light, professional yet warm atmosphere, located in Abuja area, photorealistic",
       "layout": "centered"
     }
   ],
   "contact": {
-    "phone": "070 3240 5521",
-    "email": "",
-    "address": "138 Byazhin Road, Byazhin Kubwa, Bwari, Abuja",
+    "phone": "+234 703 240 5521",
+    "email": "info@poultryfarming.org",
+    "address": "138 Byazhin Road, Byazhin Kubwa, Second Choice, Bwari, Nigeria",
     "whatsapp": "https://wa.me/2347032405521"
   }
 }
